@@ -1,0 +1,12 @@
+{
+  "_comment": "Add these entries to your VS Code User settings.json",
+  "_location_windows": "%APPDATA%\\Code\\User\\settings.json",
+  "_location_mac":     "~/Library/Application Support/Code/User/settings.json",
+  "_location_linux":   "~/.config/Code/User/settings.json",
+
+  "claudeCode.initialPermissionMode": "auto",
+  "claudeCode.preferredLocation": "panel",
+  "claudeCode.allowDangerouslySkipPermissions": false,
+  "claudeCode.autosave": true,
+  "claudeCode.useCtrlEnterToSend": false
+}

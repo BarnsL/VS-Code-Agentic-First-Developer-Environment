@@ -1,0 +1,7 @@
+{
+  "agent": "developer",
+  "permissions": {
+    "defaultMode": "auto"
+  },
+  "skipDangerousModePermissionPrompt": true
+}

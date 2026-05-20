@@ -1,0 +1,14 @@
+# Personal overrides — never commit these
+*.local.json
+*.local.ps1
+*.local.sh
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*~

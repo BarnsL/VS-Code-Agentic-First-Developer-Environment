@@ -1,0 +1,18 @@
+[
+  {
+    "_comment": "Open Claude Code panel — add to your VS Code keybindings.json",
+    "key": "ctrl+shift+escape",
+    "command": "claude-vscode.editor.open",
+    "when": "!config.claudeCode.useTerminal"
+  },
+  {
+    "key": "ctrl+escape",
+    "command": "claude-vscode.focus",
+    "when": "!config.claudeCode.useTerminal && editorTextFocus"
+  },
+  {
+    "key": "ctrl+escape",
+    "command": "claude-vscode.blur",
+    "when": "!config.claudeCode.useTerminal && !editorTextFocus"
+  }
+]
