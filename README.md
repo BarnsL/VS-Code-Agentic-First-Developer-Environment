@@ -146,7 +146,7 @@ To add a keybinding that opens Claude on `workbench.startup`, copy the entries f
 
 ## Related Repos
 
-- [VS-Code-Agent-Manager](https://github.com/barnsl/VS-Code-Agent-Manager) — Dashboard and multi-agent ticket workflows for VS Code Copilot agents
+- A compatible VS Code agent manager for dashboard and multi-agent ticket workflows
 
 ---
 
